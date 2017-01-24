@@ -7,10 +7,10 @@ Java SE Certifications.
 
 ## What Tutorials is Present at the moment?
 
-Example For          |   Completed?
---------------------------------------
-Java8 SE OCA         |   No
-Java8 SE OCP         |   No
+|Example For          |   Completed?   |
+|---------------------|----------------|
+|Java8 SE OCA         |   No           |
+|Java8 SE OCP         |   No           |
 
 
 ### OCA Examples
