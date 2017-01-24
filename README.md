@@ -15,28 +15,28 @@ Java8 SE OCP         |   No
 
 ### OCA Examples
 
-Example For          |   Completed?
---------------------------------------
-Chapter 1            |   No
-Chapter 2            |   No
-Chapter 3            |   No
-Chapter 4            |   No
-Chapter 5            |   No
-Chapter 6            |   No
+|Example For          |   Completed?    |
+|---------------------|-----------------|
+|Chapter 1            |   No            |
+|Chapter 2            |   No            |
+|Chapter 3            |   No            |
+|Chapter 4            |   No            |
+|Chapter 5            |   No            |
+|Chapter 6            |   No            |
 
 ### OCP Examples
 
-Example For          |   Completed?
---------------------------------------
-Chapter 1            |   No
-Chapter 2            |   No
-Chapter 3            |   No
-Chapter 4            |   No
-Chapter 5            |   No
-Chapter 6            |   No
-Chapter 7            |   No
-Chapter 8            |   No
-Chapter 9            |   No
-Chapter 10           |   No
+|Example For          |   Completed?  |
+|---------------------|---------------|
+|Chapter 1            |   No          |
+|Chapter 2            |   No          |
+|Chapter 3            |   No          |
+|Chapter 4            |   No          |
+|Chapter 5            |   No          |
+|Chapter 6            |   No          |
+|Chapter 7            |   No          |
+|Chapter 8            |   No          |
+|Chapter 9            |   No          |
+|Chapter 10           |   No          |
 
 
