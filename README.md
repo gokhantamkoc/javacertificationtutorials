@@ -8,7 +8,7 @@ Java SE Certifications.
 ## What Tutorials is Present at the moment?
 
 Example For          |   Completed?
---------------------------------------|
+--------------------------------------
 Java8 SE OCA         |   No
 Java8 SE OCP         |   No
 
@@ -16,7 +16,7 @@ Java8 SE OCP         |   No
 ### OCA Examples
 
 Example For          |   Completed?
---------------------------------------|
+--------------------------------------
 Chapter 1            |   No
 Chapter 2            |   No
 Chapter 3            |   No
@@ -27,7 +27,7 @@ Chapter 6            |   No
 ### OCP Examples
 
 Example For          |   Completed?
---------------------------------------|
+--------------------------------------
 Chapter 1            |   No
 Chapter 2            |   No
 Chapter 3            |   No
